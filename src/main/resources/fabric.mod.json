@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "simple_bricks",
+	"version": "${version}",
+	"name": "Simple Bricks",
+	"description": "Fills in some of the holes that Mojang left in all the stonecutter variants, without adding too much.",
+	"authors": [
+		"Micalobia"
+	],
+	"contact": {
+		"sources": "https://github.com/Micalobia/simple-bricks"
+	},
+	"license": "MIT",
+	"icon": "assets/simple_bricks/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.micalobia.SimpleBricks"
+		],
+		"fabric-datagen": [
+			"dev.micalobia.SimpleBricksDataGen"
+		]
+	},
+	"mixins": [
+		"simple_bricks.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+	}
+}

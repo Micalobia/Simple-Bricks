@@ -1,0 +1,19 @@
+{
+  "values": [
+    "simple_bricks:stone_wall",
+    "simple_bricks:quartz_block_wall",
+    "simple_bricks:smooth_quartz_wall",
+    "simple_bricks:prismarine_brick_wall",
+    "simple_bricks:dark_prismarine_wall",
+    "simple_bricks:smooth_sandstone_wall",
+    "simple_bricks:smooth_red_sandstone_wall",
+    "simple_bricks:polished_andesite_wall",
+    "simple_bricks:polished_diorite_wall",
+    "simple_bricks:polished_granite_wall",
+    "simple_bricks:purpur_wall",
+    "simple_bricks:calcite_wall",
+    "simple_bricks:smooth_basalt_wall",
+    "simple_bricks:quartz_brick_wall",
+    "simple_bricks:end_stone_wall"
+  ]
+}
